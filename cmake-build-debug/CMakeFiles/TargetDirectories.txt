@@ -1,0 +1,3 @@
+C:/Users/t-garne/Documents/games_in_cpp/test_repo/cmake-build-debug/CMakeFiles/test_repo.dir
+C:/Users/t-garne/Documents/games_in_cpp/test_repo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/t-garne/Documents/games_in_cpp/test_repo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
